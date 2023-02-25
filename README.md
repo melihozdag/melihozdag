@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Melih</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
+<img  alt="Coding" width="80%" height="auto" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=melihozdag" alt="melihozdag" /></a> </p>
 
