@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Melih</h1>
-<h3 align="center">A passionate Front-End developer from Turkey</h3>
+<h3 align="center">A passionate software developer from Turkey</h3>
 <p align="center">
   <img alt="Coding" width="70%" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" style="display:block; margin: 0 auto;">
 </p>
 
 <p align="left"> <a href="https://twitter.com/melihozdagg" target="blank"><img src="https://img.shields.io/twitter/follow/melihozdagg?logo=twitter&style=for-the-badge" alt="melihozdagg" /></a> </p>
 
-- 🌱 I’m currently learning **React**.
+- 🌱 I’m currently learning **.Net**.
 
-- 🤝 I’m looking for **Front-End job**.
+- 🤝 I’m looking for **software job**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/melihozdag?tab=repositories](https://github.com/melihozdag?tab=repositories)
 
-- 💬 Ask me about **HTML, CSS, BootStrap, JavaScript, React**.
+- 💬 Ask me about **HTML, CSS, BootStrap, JavaScript, React, C# and .Net**.
 
 - 📫 How to reach me **melih.ozdagg@gmail.com**
 
